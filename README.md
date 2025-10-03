@@ -563,6 +563,4 @@ To run tests, run the following command:
 
 ## Acknowledgement
 
-This project was made possible with funding from [NGI Zero Entrust Fund](https://nlnet.nl/thema/NGI0Entrust.html). NGI Zero Entrust Fund is part of the European Commission's [Next Generation Internet](https://www.ngi.eu/) initiative.
-
-Project webpage: https://nlnet.nl/project/ARMify/
+This project was made possible with funding from the European Defence Fund under GA no. 101121403 ([NEWSROOM](https://newsroom-project.eu/)) and [NGI Zero Entrust Fund](https://nlnet.nl/thema/NGI0Entrust.html). NGI Zero Entrust Fund is part of the European Commission's [Next Generation Internet](https://www.ngi.eu/) initiative. Project webpage: https://nlnet.nl/project/ARMify/
